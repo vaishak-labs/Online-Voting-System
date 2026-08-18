@@ -1,0 +1,30 @@
+# Maven
+target/
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VS Code / Antigravity IDE
+.vscode/
+.gemini/
+.agents/
+
+# Logs & OS temp files
+*.log
+.DS_Store
+Thumbs.db
